@@ -1,4 +1,7 @@
-# EXP 3: Correlation and regression for data analysis
+    NAME:A.AFIFA
+    REGISTER NO:212223040008
+
+# EX:3 Correlation and regression for data analysis
 # Date:22.09.23
 # Aim : 
 
