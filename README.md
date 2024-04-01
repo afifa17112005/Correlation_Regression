@@ -1,6 +1,6 @@
-    NAME:Amirthavarshini.R.D
-    REGISTER NO :212223040013
-#EX:3 Correlation and regression for data analysis
+    NAME:AFIFA.A
+    REGISTER NO :212223040008
+# EX:3 Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
