@@ -1,5 +1,5 @@
-    NAME:A.AFIFA
-    REGISTER NO :212223040008
+    NAME:Amirthavarshini.R.D
+    REGISTER NO :212223040013
 #EX:3 Correlation and regression for data analysis
 # Aim : 
 
