@@ -1,5 +1,5 @@
-##  NAME:KIRAN BALAJI.H
-##  REGISTER NO :212223040096
+##  NAME:AFIFA.A
+##  REGISTER NO :212223040008
 # EX:3 Correlation and regression for data analysis
 # Aim : 
 
